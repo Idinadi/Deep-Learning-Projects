@@ -1,0 +1,6 @@
+explicit_moderation
+gore_moderation
+intoxicants_moderation
+sfw_moderation
+suggestive_moderation
+weapons_moderation
