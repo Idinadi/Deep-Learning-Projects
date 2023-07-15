@@ -1,0 +1,13 @@
+
+                       precision    recall  f1-score   support
+
+   explicit_moderation       0.88      0.96      0.92      7540
+       gore_moderation       0.96      0.88      0.92      1034
+intoxicants_moderation       0.94      0.78      0.85      1057
+        sfw_moderation       0.96      0.95      0.95      9236
+ suggestive_moderation       0.89      0.69      0.78      1526
+    weapons_moderation       0.98      0.88      0.93      1003
+
+              accuracy                           0.92     21396
+             macro avg       0.93      0.86      0.89     21396
+          weighted avg       0.92      0.92      0.92     21396
